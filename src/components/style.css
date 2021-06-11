@@ -1,0 +1,22 @@
+ul{
+    list-style-type: none;
+    margin-top: 20px;
+    padding: 50px;
+}
+
+.texto, .lista {
+    text-align: center;
+}
+
+.texto{
+    color: blueviolet;
+}
+
+.listitem{
+    text-align: center;
+}
+
+li{
+    margin-bottom: 20px;
+
+}
